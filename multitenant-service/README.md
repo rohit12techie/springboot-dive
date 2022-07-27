@@ -1,4 +1,4 @@
-Multitenat-Service using hibernate. 
+Multitenant-Service using hibernate. 
 
 1. What is multitenanancy?
 -> Suppose, one wants to create a services which works with different users and each user data is stored in different DB. 
